@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "430543638756",
+    "project_id": "trubochki-f8a1c",
+    "storage_bucket": "trubochki-f8a1c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430543638756:android:7ca527a5a6784b05e95cf1",
+        "android_client_info": {
+          "package_name": "com.example.trubochki"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6hpS_2W71VVDA46fELWKkVVqla0uEEHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
